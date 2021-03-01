@@ -1,0 +1,153 @@
+using System;
+Console.WriteLine("Hello World!");
+Console.Readline();
+
+String namn;
+int åldeer;
+Console.WriteLine("Namn:");
+Console.Readline(Namn);
+Console.WriteLine("Ålder:");
+Console.Readline(ålder);
+Console.WriteLine(Namn):
+Console,WriteLine(ålder);
+
+class forg
+{
+    Console.BackgroundColor = ConsoleColor.Red;
+    Console.WriteLine("röd");
+    ConsoleColor,BackgroundColor = ConsoleColor.white;
+}
+
+class datum
+{
+    Console.WriteLine(datum);
+}
+
+class 
+{
+    int int1;
+    int int2:
+    Console.WriteLine("värde");
+    Console.Readline(int1);
+    Console.WriteLine("värde");
+    Console.readline(int2);
+    if int1>int2
+        Console,WriteLine(int1):
+    else
+       Console.WriteLine(inr2);
+
+
+}
+class slump
+{
+    int num = random.Next(100);
+    int num2;
+    Console.WriteLine("gissa nummer");
+    Console.Readline(num2)
+    if num=num2
+    {
+        Console.WriteLine("rätt");
+    else
+        Console.WriteLine("fel");
+    }
+}
+class savetofile
+{
+    using (StreamWriter writer = new StreamWriter(fullPath)) 
+    Console.WriteLine("skriv till fil");
+    Console.Readline(writer);
+
+}
+class readfromfile
+{
+
+    // Read entire text file content in one string  
+    string text = File.ReadAllText(textFile);  
+    Console.WriteLine(text);  
+
+}
+
+class berakna
+{
+    double tal;
+    Console.WriteLine("skriv ett desimal tal");
+    Console.Readline(tal);
+    tal= tal^10;
+    Console.WriteLine(tal);
+
+}
+class mulitpixation
+{
+    for (int conter); conter=10; counter++)
+    Console.WriteLine(1*conter);
+    
+
+}
+class arrays
+{
+
+    int[] intArray;  
+    intArray = new int[100];
+    int[] intArray2;  
+    intArray2 = new int[100];
+      
+    for(int i;i=100; i++)
+    {
+        intArray[i]=random.Next(100);
+
+    }
+    for(int i;i=100; i++)
+    {
+        intArray2[i]= i;
+    }
+
+}
+class palindrom
+{
+    public class palindrom   
+{  
+ public static void main(String arg[])   
+ {  
+  String str1 = sc.next();     
+  Console.WriteLine("Provide a string to test");  
+  Console.Readline(str1);  
+  
+  String str2 = "";  
+  for (int i = str1.length() - 1; i >= 0; i--)  
+   str2 = str2 + str1.charAt(i);  
+  if (str1.equals(str2))  
+   System.out.println("Palindrom");  
+  else  
+   System.out.println("Not a palindrom");  
+ }  
+}
+class lista
+{
+    int i1:
+    int i2;
+    Console.WriteLine("striv två tal");
+    Console.Readline(i1);
+    Console.readline(i2);
+    for(i3;i=i2; i3++)
+    {
+        Console.WriteLine(i1+i3);
+    }
+}
+class  karaktar
+{
+    string str1;
+    string str2;
+    Console.WriteLine("skriv namn på karattär");
+    Console.readline(str1);
+    Console.WriteLine("sktiv nan på motsåndare"):
+    Console.readline(str2);
+    Console.WriteLine(str1);
+    Console.WriteLine("namn:");
+    Console.WriteLine(str1);
+    Console.WriteLine("hälsa:");
+    Console.WriteLine(random.Next(100));
+    Console.WriteLine("stryka:");
+    Console.WriteLine(random.Next(100));
+    Console.WriteLine("Tur;");
+    Console.WriteLine(random.next(100));
+}
